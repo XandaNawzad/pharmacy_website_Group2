@@ -1,0 +1,16 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: Pharmacy**
+
+**Developed by Xanda Nawzad **
+
+**Recommended PHP Version 5.6 and Newer**
+
+
+**Admin Panel: /admin_area **
+
+**Admin Login Details**
+
+Username: xanda.nawzad.mahamad@gmail.com
+
+Password: xanda94
